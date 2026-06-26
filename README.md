@@ -17,9 +17,13 @@ Have Docker installed on your machine
 ### How to Run
 
 1.Clone this repository.
+
 2.Download the dataset and place it in the data/ folder (see above).
+
 3.Build the Docker container.
+
 4.Run the container.
+
 
 ### The container will automatically:
 
