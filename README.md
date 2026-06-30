@@ -28,7 +28,9 @@ Have Docker installed on your machine
 ### The container will automatically:
 
 Start MongoDB
+
 Set up the database and collections
+
 Load all sensor readings into MongoDB in batches
 
 
